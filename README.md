@@ -1,6 +1,6 @@
+![Head](Custom%20dimensions%201133x329%20px.jpeg)
 
-
-# Hello there, it's Shashwatha👋
+# Hello there 👋
 - 🌱 I’m currently pursuing Computer Science & Engineering 
 - 🤔 I’m excited to work on web development projects
 - 🔭 Currently tracing my path to becoming a humble developer
