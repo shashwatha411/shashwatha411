@@ -1,4 +1,4 @@
-![Head](Custom%20dimensions%201133x329%20px.jpeg)
+![Head](shashwatha.jpeg)
 
 # Hello there 👋
 - 🌱 I’m currently pursuing Computer Science & Engineering 
