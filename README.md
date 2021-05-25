@@ -4,6 +4,7 @@
 - 🌱 I’m currently pursuing Computer Science & Engineering 
 - 🤔 I’m excited to work on web development projects
 - 🔭 Currently tracing my path to becoming a humble developer
+- 📫 How to reach me: ![LinkedIn](https://www.linkedin.com/in/shashwatha-karkera-64bb58202/)
 
 ## Some Math :bar_chart:
 [![Shashwatha's GitHub stats](https://github-readme-stats.vercel.app/api?username=shashwatha411&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
