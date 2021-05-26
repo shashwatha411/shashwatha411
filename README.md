@@ -7,7 +7,7 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shashwatha-karkera-64bb58202/)
 
 ## Some Math :bar_chart:
-[![Shashwatha's GitHub stats](https://github-readme-stats.vercel.app/api?username=shashwatha411&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+[![Shashwatha's GitHub stats](https://github-readme-stats.vercel.app/api?username=shashwatha411&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
