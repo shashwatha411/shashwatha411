@@ -3,7 +3,7 @@
 # Hello there 👋
 - 🌱 I’m currently pursuing Computer Science & Engineering 
 - 🤔 I’m excited to work on web development projects
-- 🔭 Currently tracing my path to becoming a humble developer
+- 🔭 Currently tracing my path to becoming a software developer
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shashwatha-karkera-64bb58202/)
 
 ## Some Math :bar_chart:
