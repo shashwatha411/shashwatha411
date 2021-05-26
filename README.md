@@ -3,7 +3,7 @@
 # Hello there 👋       ![Profile View Counter](https://komarev.com/ghpvc/?username=shashwatha411)
 - 🌱 I’m currently pursuing Computer Science & Engineering 
 - 🤔 I’m excited to work on web development projects
-- 🔭 Currently tracing my path to becoming a software developer
+- 🔭 Currently tracing my path to becoming a software developer & intrigued to engage in industry experience
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shashwatha-karkera-64bb58202/)
 
 ## Some Math :bar_chart:
